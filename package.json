@@ -1,0 +1,19 @@
+{
+  "name": "salehunter-nodejs",
+  "version": "1.0.0",
+  "description": "SaleHunter nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thgiang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "redis": "^3.0.2",
+    "socket.io": "^3.0.4"
+  }
+}
