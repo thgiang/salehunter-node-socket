@@ -9,7 +9,9 @@ Project này gồm 3 phần là Backend (NodeJS), Socket server (NodeJS) và Fro
 
 Source code:
 https://github.com/thgiang/salehunter-node-backend
+
 https://github.com/thgiang/salehunter-node-socket
+
 https://github.com/thgiang/salehunter-frontend
 
 Mình mô tả qua nguyên tắc hoạt động như sau
